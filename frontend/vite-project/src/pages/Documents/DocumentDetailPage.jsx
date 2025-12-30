@@ -1,7 +1,7 @@
 import React from "react";
 
 const DocumentDetailPage = () => {
-  return <div></div>;
+  return <div>ddp</div>;
 };
 
 export default DocumentDetailPage;

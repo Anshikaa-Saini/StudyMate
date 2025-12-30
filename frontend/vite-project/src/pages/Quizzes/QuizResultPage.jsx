@@ -1,7 +1,7 @@
 import React from "react";
 
 const QuizResultPage = () => {
-  return <div></div>;
+  return <div>qrp</div>;
 };
 
 export default QuizResultPage;
